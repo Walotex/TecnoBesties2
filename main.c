@@ -1,10 +1,9 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
-#include "max.h"
-#include "min.h"
 #include "find.h"
-#include "Odd.h"
+#include "sort.h"
+#include "print.h"
 
 #define MAX 20
 
