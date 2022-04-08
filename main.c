@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "print.h"
-#include "sortArray.h"
 #include "find.h"
 
 int arr[] = {9,8,7,6,5,4,3,2,1};
@@ -13,9 +11,8 @@ int look = 52;
 int main(){
 	system("clear");
 
-	int sortArray = sort(arr, temp, len);
 
-printf("Find values: %d\n", find(arr, 5, 10));
+printf("Find values: %d\n", find(arr, len, 7));
 	
 
 	return 0;
