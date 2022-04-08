@@ -1,8 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
 #include "imprimir.h"
 #include "sort.h"
 #include "fin.h"
-#include <stdio.h>
-#include <stdlib.h>
 
 int arr[] = {9,8,7,6,5,4,3,2,1};
 //int arr[] = {45,68,98,54,8,52,6,4,6};
